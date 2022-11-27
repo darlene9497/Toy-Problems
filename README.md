@@ -2,8 +2,9 @@
 
 ## Table of Content
 
-+[Description](description)
++[Description](#description)
 + [Installation Requirement](#Installation)
++ [Procedure used](#procedure-used)
 + [Technology Used](#technology-used)
 + [Reference](#reference)
 + [Licence](#licence)
@@ -17,7 +18,9 @@ This is a practice challenge.
 You will need to have a browser, preferably google
 You will also need to have access to a laptop or a phone/tablet
 
-
+## Procedure used
+1. To view speed.js results, open your vs terminal and go to "OUTPUT". With the file still open, click on **ctrl+alt+n** to view the results. You can edit the speed limit on line 1 of the code to compare different results.
+2. To view grade.html results, open the file and load your live server. Follow the preceeding procedure to view the grade results.
 
 ## Technology-used
 CSS - was used to build the structure of the page
